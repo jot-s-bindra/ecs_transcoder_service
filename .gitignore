@@ -2,3 +2,4 @@
 node_modules
 temp_video.mp4
 sample_segment.ts
+segments/
